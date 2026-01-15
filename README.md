@@ -12,12 +12,12 @@
 
 <h2 align="center">About Me</h2>
 
-<div align="center">
-    <ul align="left" style="display: inline-block; text-align: left;">
-        <li>🔭 I'm a passionate software engineer focused on building intelligent, production-ready applications</li>
-        <li>🌱 Currently exploring advanced ML/AI integrations and cloud-native architectures</li>
-        <li>💡 I love solving real-world problems with innovative tech solutions</li>
-        <li>📫 Reach me at: <a href="mailto:sawantlakshmiraj22@gmail.com">sawantlakshmiraj22@gmail.com</a></li>
+<div>
+    <ul>
+        <li>Passionate software engineer focused on building intelligent, production-ready applications</li>
+        <li>Currently exploring advanced ML/AI integrations and cloud-native architectures</li>
+        <li>I love solving real-world problems with innovative tech solutions</li>
+        <li>Reach me at: <a href="mailto:sawantlakshmiraj22@gmail.com">sawantlakshmiraj22@gmail.com</a></li>
     </ul>
 </div>
 
@@ -136,7 +136,7 @@
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LakshmirajSunilSawant&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph" />
   <br/><br/>
-  <img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/output-3d-contrib/profile-green-dual.svg" alt="3D Contribution Graph" width="100%"/>
+  <img src="https://raw.githubusercontent.com/LakshmirajSunilSawant/LakshmirajSunilSawant/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
 </div>
 
 <br/>
