@@ -135,6 +135,8 @@
   <h2>⭐ My Contributions ⭐</h2>
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LakshmirajSunilSawant&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph" />
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/output-3d-contrib/profile-green-dual.svg" alt="3D Contribution Graph" width="100%"/>
 </div>
 
 <br/>
