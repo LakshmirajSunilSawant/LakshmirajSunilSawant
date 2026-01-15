@@ -15,17 +15,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-        with:
-          SETTING_JSON: |
-            {
-              "type": "rainbow",
-              "backgroundColor": "#0d1117",
-              "foregroundColor": "#c9d1d9",
-              "strongColor": "#58a6ff",
-              "weakColor": "#238636",
-              "radarColor": "#58a6ff",
-              "growingAnimation": true
-            }
       - name: Commit & Push
         run: |
           git config user.name github-actions[bot]

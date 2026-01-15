@@ -136,7 +136,7 @@
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LakshmirajSunilSawant&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph" />
   <br/><br/>
-  <img src="https://raw.githubusercontent.com/LakshmirajSunilSawant/LakshmirajSunilSawant/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+  <img src="https://raw.githubusercontent.com/LakshmirajSunilSawant/LakshmirajSunilSawant/main/profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph" width="100%"/>
 </div>
 
 <br/>
