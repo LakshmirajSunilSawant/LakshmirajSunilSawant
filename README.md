@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Lakshmiraj%20Sawant&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20AI%2FML%20%7C%20DevOps&descSize=16&descAlignY=58" width="100%" alt="header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=6C63FF&center=true&vCenter=true&width=520&lines=Building+intelligent%2C+production-ready+software;From+ML+models+to+Kubernetes+clusters;Turning+real-world+problems+into+products" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+intelligent%2C+production-ready+software;From+ML+models+to+Kubernetes+clusters;Turning+real-world+problems+into+products" alt="Typing SVG"/>
 
 <br/>
 
