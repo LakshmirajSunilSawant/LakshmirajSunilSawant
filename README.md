@@ -28,11 +28,12 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**AntiGravity DevOps Assistant**](https://github.com/LakshmirajSunilSawant/devops-assistant) | Predicts infrastructure failures with ML and self-heals Kubernetes clusters | FastAPI, PyTorch, Next.js, Kubernetes |
-| [**OneCommand Trader**](https://github.com/LakshmirajSunilSawant/onecommand) | Trade stocks in plain English ("Buy 10 Apple stocks"), multi-market | React, FastAPI, PostgreSQL, Gemini |
-| [**TaxSmart AI**](https://github.com/LakshmirajSunilSawant/tax-assistant) | Local-first tax assistant for India: ITR form pick, deductions, regime comparison | Next.js, FastAPI, Ollama, Clerk |
-| [**CA Pro Manager**](https://github.com/LakshmirajSunilSawant/ca-pro-manager) | Practice management for CAs: clients, filings, AI assistant, analytics | Go, Next.js, PostgreSQL, Redis |
-| [**PV Defect Detection**](https://github.com/LakshmirajSunilSawant/pv-defect-detection) | Weakly supervised solar cell defect detection with ViT, MIL and Grad-CAM | PyTorch, HuggingFace, FastAPI, React |
+| [**Hangar**](https://github.com/LakshmirajSunilSawant/Hangar) | Cloud for small software: drop in a generated app, get a sandboxed live URL with auth, per-app DBs, secrets and scale-to-zero | FastAPI, React, Docker, Caddy, Postgres |
+| [**InferStream**](https://github.com/LakshmirajSunilSawant/InferStream) | Real-time ML feature store and model serving, raw events to predictions in under 100ms, with drift monitoring | Kafka, Flink, Feast, MLflow, FastAPI |
+| [**Zeno**](https://github.com/LakshmirajSunilSawant/zeno-ticketing-system) | Live ticketing API that never oversells a seat, even when hundreds book the last one at once | FastAPI, PostgreSQL, AWS EC2 |
+| [**AntiGravity DevOps Assistant**](https://github.com/LakshmirajSunilSawant/AI-powered-DevOps-Assistant) | Predicts infrastructure failures with ML and self-heals Kubernetes clusters | FastAPI, PyTorch, Next.js, Kubernetes |
+
+More on my [repositories page](https://github.com/LakshmirajSunilSawant?tab=repositories).
 
 ## Activity
 
